@@ -46,7 +46,7 @@ int loadertictac()
 int loadpoizone()
 {
         int c,d;
-        char s[10];
+        char s[12];
         FILE *f[4];
         int addr=0;
         uint8_t *romb=rom;
